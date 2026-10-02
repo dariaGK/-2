@@ -220,13 +220,13 @@ print(res) # 12,56
 
 
 # История коммитов проекта
-8272913 (HEAD -> new_features558627) project documentation was added
-8676c15 new doc was added to circle.py
-c6787a1 new doc was added to square.py
-2c0cd32 new doc was added to rectangle.py
-75e5a6c new doc was added to triangle.py
-4f2a401 error in rectangle.py was fixed
-b6b527b triangle.py has been added
-ff57b79 rectangle.py has been added
-d078c8d (origin/main, origin/HEAD, main) L-03: Docs added
-8ba9aeb L-03: Circle and square added
+- 8272913 (HEAD -> new_features558627) project documentation was added
+- 8676c15 new doc was added to circle.py
+- c6787a1 new doc was added to square.py
+- 2c0cd32 new doc was added to rectangle.py
+- 75e5a6c new doc was added to triangle.py
+- 4f2a401 error in rectangle.py was fixed
+- b6b527b triangle.py has been added
+- ff57b79 rectangle.py has been added
+- d078c8d (origin/main, origin/HEAD, main) L-03: Docs added
+- s8ba9aeb L-03: Circle and square added
